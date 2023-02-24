@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Vivek-27.github.io/WeatherApp_new.git",
+  "homepage": "https://Vivek-27.github.io/WeatherApp_new",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
